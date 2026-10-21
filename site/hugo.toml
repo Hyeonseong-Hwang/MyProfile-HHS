@@ -1,5 +1,5 @@
 baseURL = "https://hugo-paper.vercel.app/"
-title = "Paper"
+title = "나 소개하기"
 author = "Steve Francia"
 copyright = "© 2025, lee.so"
 languageCode = "en"
