@@ -2,8 +2,8 @@ baseURL = "https://hugo-paper.vercel.app/"
 title = "나 소개하기"
 author = "Steve Francia"
 copyright = "© 2025, lee.so"
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "ko-KR"
+DefaultContentLanguage = "ko"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
