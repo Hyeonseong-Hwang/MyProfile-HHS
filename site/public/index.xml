@@ -58,11 +58,11 @@
 				<description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>About</title>
+				<title>About HS</title>
 				<link>http://localhost:1313/MyProfile-HHS/about/</link>
 				<pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/MyProfile-HHS/about/</guid>
-				<description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
+				<description>&lt;p&gt;안녕하세요 전북대학교 컴퓨터인공지능학부 재학 중인 황현성입니다.&#xA;&lt;br&gt;저의 약력은 다음과 같습니다.&lt;/br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;br&gt;2004년 경상남도 창원 출생&lt;/br&gt;&#xA;&lt;br&gt;2011년 마산 교방초등학교 입학&lt;/br&gt;&#xA;&lt;br&gt;2012년 창원 웅남초등학교 전학&lt;/br&gt;&#xA;&lt;br&gt;2017년 창원 웅남초등학교 졸업&lt;/br&gt;&#xA;&lt;br&gt;2020년 창원 웅남중학교 졸업&lt;/br&gt;&#xA;&lt;br&gt;2023년 창원 남고등학교 졸업&lt;/br&gt;&#xA;&lt;br&gt;2023년 전북대학교 컴퓨터인공지능학부 입학&lt;/br&gt;&#xA;&lt;br&gt;2024년 대한민국 해군 입대&lt;/br&gt;&#xA;&lt;br&gt;2026년 대한민국 해군 진해기지사령부 병장 만기 전역&lt;/br&gt;&#xA;&lt;br&gt;2026년 전북대학교 컴퓨터인공지능학부 2학년 복학&lt;/br&gt;&#xA;&lt;br&gt;2026년 제4대 컴퓨터인공지능학부 학생회 집행국장&lt;/br&gt;&lt;/p&gt;&#xA;&lt;p&gt;감사합니다.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Contact</title>

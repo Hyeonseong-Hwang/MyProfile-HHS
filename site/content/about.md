@@ -1,25 +1,25 @@
 +++
-title = "About"
+title = "About HS"
 description = "Hugo, the world's fastest framework for building websites"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "lee.so"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+안녕하세요 전북대학교 컴퓨터인공지능학부 재학 중인 황현성입니다.
+<br>저의 약력은 다음과 같습니다.</br>
 
-Hugo makes use of a variety of open source projects including:
+<br>2004년 경상남도 창원 출생</br>
+<br>2011년 마산 교방초등학교 입학</br>
+<br>2012년 창원 웅남초등학교 전학</br>
+<br>2017년 창원 웅남초등학교 졸업</br>
+<br>2020년 창원 웅남중학교 졸업</br>
+<br>2023년 창원 남고등학교 졸업</br>
+<br>2023년 전북대학교 컴퓨터인공지능학부 입학</br>
+<br>2024년 대한민국 해군 입대</br>
+<br>2026년 대한민국 해군 진해기지사령부 병장 만기 전역</br>
+<br>2026년 전북대학교 컴퓨터인공지능학부 2학년 복학</br>
+<br>2026년 제4대 컴퓨터인공지능학부 학생회 집행국장</br>
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+감사합니다.
