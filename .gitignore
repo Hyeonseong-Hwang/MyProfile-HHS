@@ -14,3 +14,9 @@
 **/resources/_gen/
 **/.hugo_build.lock
 /.github-pages-setup-backups/
+
+# macOS 시스템 파일
+.DS_Store
+
+# Hugo 로컬 미리보기 빌드 결과물
+/site/public/
