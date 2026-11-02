@@ -19,7 +19,7 @@ ignoreErrors = ["error-remote-getjson"]
   github = 'nanxiaobei'
   instagram = 'nan.xiaobei'
 
-avatar = 'https://hyeonseong-hwang.github.io/MyProfile-HHS/images/avatar.jpg'
+  avatar = 'https://hyeonseong-hwang.github.io/MyProfile-HHS/images/avatar.jpg'
   name = 'Hwang HyeonSeong'
   bio = 'JBNU Computer Science & Artificial Intelligence'
 # ------------------------------
