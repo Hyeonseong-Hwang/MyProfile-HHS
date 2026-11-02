@@ -17,7 +17,7 @@ ignoreErrors = ["error-remote-getjson"]
 [params]
   color = 'linen'
   github = 'Hyeonseong-Hwang'
-  instagram = 'nan.xiaobei'
+  instagram = '100.10.1001'
 
   avatar = 'https://hyeonseong-hwang.github.io/MyProfile-HHS/images/avatar.jpg'
   name = 'Hwang HyeonSeong'
