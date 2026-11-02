@@ -28,3 +28,8 @@ _testmain.go
 /themes
 .DS_Store
 .hugo_build.lock
+# Hugo 로컬 미리보기 빌드 결과물
+/site/public/
+
+# macOS 시스템 파일
+.DS_Store
