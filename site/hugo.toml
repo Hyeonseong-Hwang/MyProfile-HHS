@@ -16,7 +16,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params]
   color = 'linen'
-  twitter = 'nanxiaobei'
+  
   github = 'nanxiaobei'
   instagram = 'nan.xiaobei'
 
