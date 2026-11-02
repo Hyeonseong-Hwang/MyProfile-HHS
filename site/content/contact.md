@@ -6,5 +6,5 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "lee.so"
 +++
 
-- [github.com/nanxiaobei](https://github.com/nanxiaobei)
-- [lee.so](https://lee.so)
+- [github.com/Hyeonseong-Hwang](https://github.com/Hyeonseong-Hwang)
+-  happytimmy1184@jbnu.ac.kr
