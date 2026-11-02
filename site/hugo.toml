@@ -16,13 +16,12 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params]
   color = 'linen'
-  
   github = 'nanxiaobei'
   instagram = 'nan.xiaobei'
 
 avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+  name = 'Hwang Hyeonseong'
+  bio = 'JBNU Computer Science & Artificial Intelligence'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
