@@ -1,6 +1,6 @@
 +++
 author = "황현성"
-title = "Summary"
+title = "총정리"
 date = "2026-11-02T08:00:00+09:00"
 description = "두 관심 분야와 현재 활용하는 기술, 앞으로의 방향 정리"
 +++

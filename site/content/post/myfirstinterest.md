@@ -1,6 +1,6 @@
 +++
 author = "황현성"
-title = "My First Interest"
+title = "관심분야 1"
 date = "2026-11-02T10:00:00+09:00"
 description = "내가 관심가는 분야"
 +++

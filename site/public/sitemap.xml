@@ -8,13 +8,13 @@
     <loc>http://localhost:1313/MyProfile-HHS/tags/index/</loc>
     <lastmod>2026-11-02T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/post/myfirstinterest/</loc>
-    <lastmod>2026-11-02T10:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/post/</loc>
     <lastmod>2026-11-02T10:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/tags/</loc>
+    <lastmod>2026-11-02T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/post/myfirstinterest/</loc>
     <lastmod>2026-11-02T10:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/post/mysecondinterest/</loc>
@@ -22,6 +22,12 @@
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/post/summary/</loc>
     <lastmod>2026-11-02T08:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/about/</loc>
+    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/contact/</loc>
+    <lastmod>2026-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -43,12 +49,6 @@
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/contact/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/categories/</loc>
   </url><url>

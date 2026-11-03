@@ -21,7 +21,7 @@ ignoreErrors = ["error-remote-getjson"]
   instagram = '100.10.1001'
 
   avatar = 'https://hyeonseong-hwang.github.io/MyProfile-HHS/images/avatar.jpg'
-  name = 'Hwang HyeonSeong'
+  name = '황현성'
   bio = 'JBNU Computer Science & Artificial Intelligence'
 # ------------------------------
 
