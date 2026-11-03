@@ -11,16 +11,10 @@
     <loc>http://localhost:1313/MyProfile-HHS/tags/index/</loc>
     <lastmod>2026-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/tags/markdown/</loc>
-    <lastmod>2026-11-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/post/</loc>
     <lastmod>2026-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/tags/</loc>
-    <lastmod>2026-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/tags/text/</loc>
     <lastmod>2026-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/archives/</loc>
@@ -33,6 +27,9 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/post/markdown-syntax/</loc>
