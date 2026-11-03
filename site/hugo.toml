@@ -48,12 +48,12 @@ ignoreErrors = ["error-remote-getjson"]
   [[menu.main]]
     parent = "activity"
     name = "홈페이지 만들기"
-    url = "/post/homepage/"
+    url = "/post/mkpage/"
     weight = 1
   [[menu.main]]
     parent = "activity"
     name = "채팅 프로그램"
-    url = "/post/chat/"
+    url = "/post/mkchat/"
     weight = 2
   [[menu.main]]
     identifier = "contact"
