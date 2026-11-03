@@ -3,8 +3,6 @@ author = "황현성"
 title = "My Interest"
 date = "2026-11-03"
 description = "내가 관심가는 분야"
-
-weight = 10
 +++
 
 1. AI를 활용한 웹 사이트 제작
