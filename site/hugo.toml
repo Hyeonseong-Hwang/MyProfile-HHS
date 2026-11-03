@@ -15,6 +15,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 
 [params]
+  description = '나의 관심분야와 활동을 소개하는 사이트'
   color = 'linen'
   github = 'Hyeonseong-Hwang'
   instagram = '100.10.1001'
