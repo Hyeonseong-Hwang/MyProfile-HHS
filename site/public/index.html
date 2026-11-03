@@ -128,7 +128,13 @@
         class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
         href="/MyProfile-HHS/about/"
         >소개</a
-      ><a
+      ><details class="nav-dropdown">
+        <summary
+          class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+          >활동</summary
+        >
+        <div class="nav-dropdown-menu"><a class="nav-dropdown-item" href="/MyProfile-HHS/post/homepage/">홈페이지 만들기</a><a class="nav-dropdown-item" href="/MyProfile-HHS/post/chat/">채팅 프로그램</a></div>
+      </details><a
         class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
         href="/MyProfile-HHS/contact/"
         >연락</a
@@ -151,6 +157,61 @@
       >instagram</a>
     </nav>
   </div>
+    <style>
+    .nav-dropdown { position: relative; }
+    .nav-dropdown > summary { cursor: pointer; list-style: none; }
+    .nav-dropdown > summary::-webkit-details-marker { display: none; }
+    .nav-dropdown > summary::after { content: " ▾"; font-size: 0.8em; }
+    .nav-dropdown[open] > summary::after { content: " ▴"; }
+
+    .nav-dropdown-menu {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      align-items: center;
+      padding: 0.25rem 0 1rem;
+    }
+    .nav-dropdown-item {
+      display: block;
+      width: 13rem;
+      max-width: 100%;
+      padding: 0.75rem 1rem;
+      text-align: center;
+      font-size: 1rem;
+      line-height: 1.4;
+      color: #1a1a1a;
+      background: #ffffff;
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      border-radius: 0.75rem;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+      white-space: normal;
+    }
+    .nav-dropdown-item:hover,
+    .nav-dropdown-item:focus-visible {
+      background: #f2f2f2;
+    }
+
+    @media (min-width: 1024px) {
+      .nav-dropdown-menu {
+        position: absolute;
+        top: calc(100% - 1rem);
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 0;
+        z-index: 60;
+      }
+    }
+
+    .dark .nav-dropdown-item {
+      color: #f2f2f2;
+      background: #2a2a2a;
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+    .dark .nav-dropdown-item:hover,
+    .dark .nav-dropdown-item:focus-visible {
+      background: #3a3a3a;
+    }
+  </style>
 </header>
 <main
       class="prose prose-neutral dark:prose-invert relative mx-auto min-h-[calc(100vh-9rem)] max-w-(--w) px-8 pt-14 pb-16"
