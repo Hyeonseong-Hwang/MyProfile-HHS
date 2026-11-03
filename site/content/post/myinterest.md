@@ -3,10 +3,7 @@ author = "황현성"
 title = "My Interest"
 date = "2026-11-03"
 description = "내가 관심가는 분야"
-tags = [
-    "markdown",
-    "text",
-]
+
 weight = 10
 +++
 

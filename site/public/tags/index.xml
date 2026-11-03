@@ -12,9 +12,30 @@
 			<copyright>© 2025, lee.so</copyright>
 		
 		
-			<lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/MyProfile-HHS/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Index</title>
+				<link>http://localhost:1313/MyProfile-HHS/tags/index/</link>
+				<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/MyProfile-HHS/tags/index/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Markdown</title>
+				<link>http://localhost:1313/MyProfile-HHS/tags/markdown/</link>
+				<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/MyProfile-HHS/tags/markdown/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Text</title>
+				<link>http://localhost:1313/MyProfile-HHS/tags/text/</link>
+				<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/MyProfile-HHS/tags/text/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Css</title>
 				<link>http://localhost:1313/MyProfile-HHS/tags/css/</link>
@@ -30,20 +51,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Index</title>
-				<link>http://localhost:1313/MyProfile-HHS/tags/index/</link>
-				<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/tags/index/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Markdown</title>
-				<link>http://localhost:1313/MyProfile-HHS/tags/markdown/</link>
-				<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/tags/markdown/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Privacy</title>
 				<link>http://localhost:1313/MyProfile-HHS/tags/privacy/</link>
 				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
@@ -55,13 +62,6 @@
 				<link>http://localhost:1313/MyProfile-HHS/tags/shortcodes/</link>
 				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/MyProfile-HHS/tags/shortcodes/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Text</title>
-				<link>http://localhost:1313/MyProfile-HHS/tags/text/</link>
-				<pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/tags/text/</guid>
 				<description></description>
 			</item>
 			<item>

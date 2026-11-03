@@ -12,15 +12,15 @@
 			<copyright>© 2025, lee.so</copyright>
 		
 		
-			<lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/MyProfile-HHS/post/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>My Interest</title>
-				<link>http://localhost:1313/MyProfile-HHS/post/placeholder-text/</link>
-				<pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/post/placeholder-text/</guid>
-				<description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+				<link>http://localhost:1313/MyProfile-HHS/post/myinterest/</link>
+				<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/MyProfile-HHS/post/myinterest/</guid>
+				<description>&lt;ol&gt;&#xA;&lt;li&gt;AI를 활용한 웹 사이트 제작&#xA;&lt;br&gt;다양한 AI를 활용하여 웹사이트를 제작하는 데에 큰 관심이 있습니다.&#xA;&lt;br&gt;현재 동아리 활동을 하면서 동아리 소개에 관한 웹사이트를 만들었습니다.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;제작한-웹사이트&#34;&gt;제작한 웹사이트&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/intro1.jpg&#34; alt=&#34;동아리소개 1&#34;&gt;&#xA;&lt;img src=&#34;../../images/intro2.jpg&#34; alt=&#34;동아리소개 2&#34;&gt;&#xA;&lt;img src=&#34;../../images/intro3.jpg&#34; alt=&#34;동아리소개 3&#34;&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Markdown Syntax Guide</title>
