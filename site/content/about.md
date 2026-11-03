@@ -1,6 +1,6 @@
 +++
-title = "About HS"
-description = "Hugo, the world's fastest framework for building websites"
+title = "황현성"
+description = "나에 대한 소개"
 date = "2026-10-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "황현성"

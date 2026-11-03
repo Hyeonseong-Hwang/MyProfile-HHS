@@ -37,12 +37,12 @@ ignoreErrors = ["error-remote-getjson"]
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "소개"
     url = "/about/"
     weight = 10
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "연락"
     url = "/contact/"
     weight = 10
 

@@ -37,18 +37,18 @@
 				<description>&lt;p&gt;컴퓨터공학과 인공지능을 전공하고, 관심을 갖게 된 두 분야와 사용하고 있는 기술을 정리하겠습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;두-가지-관심-분야&#34;&gt;두 가지 관심 분야&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI를 활용한 웹사이트 제작&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;필요한 정보를 누구나 쉽고 정확하게 확인할 수 있도록 웹사이트로 정리하는 일에 관심이 있습니다. 동아리 소개 웹사이트를 AI를 활용해 직접 만들어, 동아리 부원들에게 정보를 쉽게 전달하는 데에 큰 보람을 느꼈습니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI를 활용한 의료 기술&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;AI가 의료 영상을 분석하고 질병을 미리 예측하는 데 쓰이는 것을 보며, 이러한 기술을 활용하여 AI의 이점을 사용해 보고 싶습니다.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>About HS</title>
-				<link>http://localhost:1313/MyProfile-HHS/about/</link>
-				<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/about/</guid>
-				<description>&lt;p&gt;안녕하세요 전북대학교 컴퓨터인공지능학부 재학 중인 황현성입니다.&#xA;&lt;br&gt;저의 약력은 다음과 같습니다.&lt;/br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;br&gt;2004년 경상남도 창원 출생&lt;/br&gt;&#xA;&lt;br&gt;2011년 마산 교방초등학교 입학&lt;/br&gt;&#xA;&lt;br&gt;2012년 창원 웅남초등학교 전학&lt;/br&gt;&#xA;&lt;br&gt;2017년 창원 웅남초등학교 졸업&lt;/br&gt;&#xA;&lt;br&gt;2020년 창원 웅남중학교 졸업&lt;/br&gt;&#xA;&lt;br&gt;2023년 창원 남고등학교 졸업&lt;/br&gt;&#xA;&lt;br&gt;2023년 전북대학교 컴퓨터인공지능학부 입학&lt;/br&gt;&#xA;&lt;br&gt;2024년 대한민국 해군 입대&lt;/br&gt;&#xA;&lt;br&gt;2026년 대한민국 해군 진해기지사령부 병장 만기 전역&lt;/br&gt;&#xA;&lt;br&gt;2026년 전북대학교 컴퓨터인공지능학부 2학년 복학&lt;/br&gt;&#xA;&lt;br&gt;2026년 제4대 컴퓨터인공지능학부 학생회 집행국장&lt;/br&gt;&lt;/p&gt;&#xA;&lt;p&gt;감사합니다.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>연락</title>
 				<link>http://localhost:1313/MyProfile-HHS/contact/</link>
 				<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/MyProfile-HHS/contact/</guid>
 				<description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/Hyeonseong-Hwang&#34;&gt;github.com/Hyeonseong-Hwang&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:happytimmy1184@jbnu.ac.kr&#34;&gt;happytimmy1184@jbnu.ac.kr&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>황현성</title>
+				<link>http://localhost:1313/MyProfile-HHS/about/</link>
+				<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/MyProfile-HHS/about/</guid>
+				<description>&lt;p&gt;안녕하세요 전북대학교 컴퓨터인공지능학부 재학 중인 황현성입니다.&#xA;&lt;br&gt;저의 약력은 다음과 같습니다.&lt;/br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;br&gt;2004년 경상남도 창원 출생&lt;/br&gt;&#xA;&lt;br&gt;2011년 마산 교방초등학교 입학&lt;/br&gt;&#xA;&lt;br&gt;2012년 창원 웅남초등학교 전학&lt;/br&gt;&#xA;&lt;br&gt;2017년 창원 웅남초등학교 졸업&lt;/br&gt;&#xA;&lt;br&gt;2020년 창원 웅남중학교 졸업&lt;/br&gt;&#xA;&lt;br&gt;2023년 창원 남고등학교 졸업&lt;/br&gt;&#xA;&lt;br&gt;2023년 전북대학교 컴퓨터인공지능학부 입학&lt;/br&gt;&#xA;&lt;br&gt;2024년 대한민국 해군 입대&lt;/br&gt;&#xA;&lt;br&gt;2026년 대한민국 해군 진해기지사령부 병장 만기 전역&lt;/br&gt;&#xA;&lt;br&gt;2026년 전북대학교 컴퓨터인공지능학부 2학년 복학&lt;/br&gt;&#xA;&lt;br&gt;2026년 제4대 컴퓨터인공지능학부 학생회 집행국장&lt;/br&gt;&lt;/p&gt;&#xA;&lt;p&gt;감사합니다.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title></title>
