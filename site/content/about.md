@@ -3,7 +3,7 @@ title = "About HS"
 description = "Hugo, the world's fastest framework for building websites"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "lee.so"
+author = "황현성"
 +++
 
 안녕하세요 전북대학교 컴퓨터인공지능학부 재학 중인 황현성입니다.
