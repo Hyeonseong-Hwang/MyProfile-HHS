@@ -1,156 +1,36 @@
 +++
-author = "lee.so"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "css",
-    "html",
-]
-categories = [
-    "themes",
-    "syntax",
-]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
+author = "황현성"
+title = "Summary"
+date = "2026-11-02T08:00:00+09:00"
+description = "두 관심 분야와 현재 활용하는 기술, 앞으로의 방향 정리"
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+컴퓨터공학과 인공지능을 전공하고, 관심을 갖게 된 두 분야와 사용하고 있는 기술을 정리하겠습니다.
 
-<!--more-->
+## 두 가지 관심 분야
 
-## Headings
+**AI를 활용한 웹사이트 제작**
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+필요한 정보를 누구나 쉽고 정확하게 확인할 수 있도록 웹사이트로 정리하는 일에 관심이 있습니다. 동아리 소개 웹사이트를 AI를 활용해 직접 만들어, 동아리 부원들에게 정보를 쉽게 전달하는 데에 큰 보람을 느꼈습니다.
 
-# H1
+**AI를 활용한 의료 기술**
 
-## H2
+AI가 의료 영상을 분석하고 질병을 미리 예측하는 데 쓰이는 것을 보며, 이러한 기술을 활용하여 AI의 이점을 사용해 보고 싶습니다.
 
-### H3
+## 두 분야를 공동으로 활용할 방법
 
-#### H4
+두 분야를 통합하여 AI 기술을 활용하여 프로그램을 만든 뒤 시행 후 홈페이지에 관련 기관 또는 개인이 직접 눈으로 결과를 보는 홈페이지를 제작할 수 있다고 생각합니다.
 
-##### H5
+## 현재 사용하는 기술과 실제 사용 사례
 
-###### H6
+| 기술·도구 | 이 사이트에서 사용한 방식 |
+|---|---|
+| Hugo | 테마를 바탕으로 소개 글과 활동 글을 Markdown으로 작성해 사이트를 만들었습니다. |
+| GitHub Actions / Pages | main 브랜치에 push하면 자동으로 빌드·배포되도록 구성하고, 배포 결과를 직접 확인했습니다. |
+| Claude (AI) | 설정 방법과 오류 원인을 묻는 데 활용했고, 제안받은 내용은 직접 적용해 본 뒤 결과를 확인하고 수정했습니다. |
 
-## Paragraph
+홈페이지는 위와 같은 방식으로 사용을 하였고, 의료 기술 AI는 현재 수강하는 프로젝트에서 학습한 뒤 적용할 예정입니다.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+## 앞으로의 방향
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-| Name  | Age |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
-
-#### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-
-#### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-
-{{< highlight html >}}
-
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-- List item
-- Another item
-- And another item
-
-#### Nested list
-
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+먼저 Python으로 데이터를 다루는 기초를 익히고, 공개된 흉부 X-ray 이미지로 간단한 분류 모델을 실습해 볼 계획입니다. 그 과정과 결과, 잘 되지 않았던 점도 이 사이트에 계속 기록하겠습니다.

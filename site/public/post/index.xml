@@ -30,11 +30,11 @@
 				<description>&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;AI를 활용하여 의료 기술의 향상&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;최근 의료 분야에서는 AI가 X-ray, CT 와 같은 영상을 분석하여 의사가 놓치기 쉬운 부위를 찾도록 돕고, 환자의 기록을 바탕으로 질병을 미리 예측하고 있습니다.&lt;/p&gt;&#xA;&lt;p&gt;컴퓨터 공학과 인공지능을 전공으로 하는 저는 이러한 분야에서 AI 기술을 활용하여 데이터를 모아 질병을 예측하는 AI분류 모델을 만들어 보는 것이 제 목표입니다.&lt;/p&gt;&#xA;&lt;p&gt;앞으로 저는&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Python으로 데이터를 불러오고 정리하는 기초를 먼저 익히겠습니다.&lt;/li&gt;&#xA;&lt;li&gt;전공 과정인 초급프로젝트 PBL 분반을 수강하여 관련 지식을 쌓겠습니다.&lt;/li&gt;&#xA;&lt;li&gt;공개된 흉부 X-ray 이미지 데이터셋을 이용해 정상과 이상 이미지를 구분하는 기초 분류 모델을 실습하겠습니다.&lt;/li&gt;&#xA;&lt;li&gt;실습 과정과 결과, 잘 되지 않았던 점을 이 사이트에 글로 정리해 기록하겠습니다.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
 			</item>
 			<item>
-				<title>Markdown Syntax Guide</title>
-				<link>http://localhost:1313/MyProfile-HHS/post/markdown-syntax/</link>
-				<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/post/markdown-syntax/</guid>
-				<description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+				<title>Summary</title>
+				<link>http://localhost:1313/MyProfile-HHS/post/summary/</link>
+				<pubDate>Mon, 02 Nov 2026 08:00:00 +0900</pubDate>
+				<guid>http://localhost:1313/MyProfile-HHS/post/summary/</guid>
+				<description>&lt;p&gt;컴퓨터공학과 인공지능을 전공하고, 관심을 갖게 된 두 분야와 사용하고 있는 기술을 정리하겠습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;두-가지-관심-분야&#34;&gt;두 가지 관심 분야&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI를 활용한 웹사이트 제작&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;필요한 정보를 누구나 쉽고 정확하게 확인할 수 있도록 웹사이트로 정리하는 일에 관심이 있습니다. 동아리 소개 웹사이트를 AI를 활용해 직접 만들어, 동아리 부원들에게 정보를 쉽게 전달하는 데에 큰 보람을 느꼈습니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI를 활용한 의료 기술&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;AI가 의료 영상을 분석하고 질병을 미리 예측하는 데 쓰이는 것을 보며, 이러한 기술을 활용하여 AI의 이점을 사용해 보고 싶습니다.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Rich Content</title>

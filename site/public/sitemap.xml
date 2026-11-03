@@ -20,35 +20,11 @@
     <loc>http://localhost:1313/MyProfile-HHS/post/mysecondinterest/</loc>
     <lastmod>2026-11-02T09:00:00+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/post/summary/</loc>
+    <lastmod>2026-11-02T08:00:00+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
@@ -73,5 +49,21 @@
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/tags/css/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/tags/html/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/tags/markdown/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/categories/syntax/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/categories/themes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MyProfile-HHS/series/themes-guide/</loc>
   </url>
 </urlset>
