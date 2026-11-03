@@ -9,7 +9,7 @@
 		
 		
 		
-			<copyright>© 2025, lee.so</copyright>
+			<copyright>© 2026, 황현성</copyright>
 		
 		
 			<lastBuildDate>Mon, 02 Nov 2026 10:00:00 +0900</lastBuildDate>
@@ -41,27 +41,6 @@
 				<link>http://localhost:1313/MyProfile-HHS/tags/emoji/</link>
 				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/MyProfile-HHS/tags/emoji/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Css</title>
-				<link>http://localhost:1313/MyProfile-HHS/tags/css/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/tags/css/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Html</title>
-				<link>http://localhost:1313/MyProfile-HHS/tags/html/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/tags/html/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Markdown</title>
-				<link>http://localhost:1313/MyProfile-HHS/tags/markdown/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/tags/markdown/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -1,7 +1,7 @@
 baseURL = "https://hugo-paper.vercel.app/"
 title = "나 소개하기"
 author = "Steve Francia"
-copyright = "© 2025, lee.so"
+copyright = "© 2026, 황현성"
 languageCode = "ko-KR"
 DefaultContentLanguage = "ko"
 enableInlineShortcodes = true

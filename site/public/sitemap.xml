@@ -52,18 +52,6 @@
   </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/tags/css/</loc>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/tags/html/</loc>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/tags/markdown/</loc>
-  </url><url>
     <loc>http://localhost:1313/MyProfile-HHS/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/categories/syntax/</loc>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/categories/themes/</loc>
-  </url><url>
-    <loc>http://localhost:1313/MyProfile-HHS/series/themes-guide/</loc>
   </url>
 </urlset>
