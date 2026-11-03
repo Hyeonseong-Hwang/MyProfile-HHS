@@ -36,26 +36,5 @@
 				<guid>http://localhost:1313/MyProfile-HHS/post/summary/</guid>
 				<description>&lt;p&gt;컴퓨터공학과 인공지능을 전공하고, 관심을 갖게 된 두 분야와 사용하고 있는 기술을 정리하겠습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;두-가지-관심-분야&#34;&gt;두 가지 관심 분야&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI를 활용한 웹사이트 제작&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;필요한 정보를 누구나 쉽고 정확하게 확인할 수 있도록 웹사이트로 정리하는 일에 관심이 있습니다. 동아리 소개 웹사이트를 AI를 활용해 직접 만들어, 동아리 부원들에게 정보를 쉽게 전달하는 데에 큰 보람을 느꼈습니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI를 활용한 의료 기술&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;AI가 의료 영상을 분석하고 질병을 미리 예측하는 데 쓰이는 것을 보며, 이러한 기술을 활용하여 AI의 이점을 사용해 보고 싶습니다.&lt;/p&gt;</description>
 			</item>
-			<item>
-				<title>Rich Content</title>
-				<link>http://localhost:1313/MyProfile-HHS/post/rich-content/</link>
-				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/post/rich-content/</guid>
-				<description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2&gt;&lt;/h2&gt;</description>
-			</item>
-			<item>
-				<title>Math Typesetting</title>
-				<link>http://localhost:1313/MyProfile-HHS/post/math-typesetting/</link>
-				<pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/post/math-typesetting/</guid>
-				<description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Emoji Support</title>
-				<link>http://localhost:1313/MyProfile-HHS/post/emoji-support/</link>
-				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/MyProfile-HHS/post/emoji-support/</guid>
-				<description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-			</item>
 	</channel>
 </rss>
