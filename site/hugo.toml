@@ -41,10 +41,25 @@ ignoreErrors = ["error-remote-getjson"]
     url = "/about/"
     weight = 10
   [[menu.main]]
+    identifier = "activity"
+    name = "활동"
+    url = "/post/"
+    weight = 15
+  [[menu.main]]
+    parent = "activity"
+    name = "홈페이지 만들기"
+    url = "/post/homepage/"
+    weight = 1
+  [[menu.main]]
+    parent = "activity"
+    name = "채팅 프로그램"
+    url = "/post/chat/"
+    weight = 2
+  [[menu.main]]
     identifier = "contact"
     name = "연락"
     url = "/contact/"
-    weight = 10
+    weight = 20
 
 [taxonomies]
 category = "categories"
