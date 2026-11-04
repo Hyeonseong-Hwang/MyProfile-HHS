@@ -1,133 +1,31 @@
-<div align="center">
+## 개인 소개 사이트
 
-gorgeous framer templates ☞ [21beats.lemonsqueezy.com](https://21beats.lemonsqueezy.com/)
+Hugo와 hugo-paper 테마로 만든 개인 소개 사이트입니다. 관심 분야와 활동(동아리 홈페이지 개선, 채팅 프로그램)을 소개합니다.
 
-your online home screen ☞ [kee.so](https://kee.so/)
+- **공개 사이트**: https://hyeonseong-hwang.github.io/MyProfile-HHS/
+- **저장소**: https://github.com/Hyeonseong-Hwang/MyProfile-HHS
+- **배포 방식**: `main` 브랜치에 push하면 GitHub Actions가 자동으로 빌드하고 GitHub Pages에 배포합니다.
 
-</div>
+## 사이트 구성
 
----
+| 메뉴 / 화면 | 주소 | 원본 파일 |
+|---|---|---|
+| 홈 (프로필, 글 목록) | `/` | `site/content/_index.md`, `site/hugo.toml` |
+| 소개 | `/about/` | `site/content/about.md` |
+| 활동 › 홈페이지 만들기 | `/post/mkpage/` | `site/content/post/mkpage.md` |
+| 활동 › 채팅 프로그램 | `/post/mkchat/` | `site/content/post/mkchat.md` |
+| 연락 | `/contact/` | `site/content/contact.md` |
+| 관심 분야 1 | `/post/myfirstinterest/` | `site/content/post/myfirstinterest.md` |
+| 관심 분야 2 | `/post/mysecondinterest/` | `site/content/post/mysecondinterest.md` |
+| 총정리 | `/post/summary/` | `site/content/post/summary.md` |
 
-<div align="center">
-<h1>Paper <sup><sup><sub>6.30</sub></sup></sup></h1>
+## 사용 도구와 버전
 
-Demo → [hugo-paper.vercel.app](https://hugo-paper.vercel.app/)
+| 도구 | 버전 | 용도 |
+|---|---|---|
+| Hugo extended | 0.167.0 | 배포 빌드 (`.github/workflows/hugo-pages.yml`에 고정) |
+| Hugo extended | 0.168.0 | 로컬 미리보기에서 동작 확인 (macOS, Homebrew 설치) |
+| Git | 시스템 기본 | 버전 관리 |
+| Python | 3.12 | 배포 워크플로의 빌드 보조 스크립트 실행 (GitHub Actions에서 자동 설치) |
+| 수업 제공 스크립트 | `prepare_github_pages.py` 3.1 | 저장소 연결, `site/` 구성, 워크플로 생성 |
 
-A simple, clean, customizable Hugo theme.
-
-⚡️ Fast | 👒 Customizable | 🫙 Smooth
-
-</div>
-
-## Links
-
-Product Hunt: [producthunt.com/posts/hugo-paper-6](https://www.producthunt.com/posts/hugo-paper-6)
-
-Hugo themes: [themes.gohugo.io/hugo-paper](https://themes.gohugo.io/hugo-paper/)
-
-## Overview
-
-![](./images/screenshot.png)
-![](./images/screenshot_dark.png)
-![](./images/pagespeed.png)
-
-## Options
-
-Available options to `config.toml` or `hugo.toml`:
-
-```toml
-[services]
-  [services.disqus]
-    shortname = 'YOUR_DISQUS_SHORTNAME'     # use disqus comments
-
-[params]
-  # color style
-  color = 'linen'                           # linen, wheat, gray, light
-
-  # header social icons
-  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-  github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
-  instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
-  linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
-  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
-  threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
-  bluesky = 'YOUR_BLUESKY_ID'               # https://bsky.app/profile/YOUR_BLUESKY_ID
-  rss = true                                # show rss icon
-
-  # home page profile
-  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-  name = 'YOUR_NAME'
-  bio = 'YOUR_BIO'
-
-
-  # misc
-  disableHLJS = true                        # disable highlight.js
-  disablePostNavigation = true              # disable post navigation
-  monoDarkIcon = true                       # show monochrome dark mode icon
-  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
-  math = true                               # enable KaTeX math typesetting globally
-  localKatex = false                        # use local KaTeX js/css instead of CDN
-  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
-  favicon = "favicon.ico"                   # customize the default favicon
-  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
-
-  # RTL supprot
-  direction = "rtl"                         # RTL support for Right-to-left languages
-
-  # giscus
-[params.giscus]
-  repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
-  repoId = 'YOUR_GISCUS_REPO_ID'
-  category = 'YOUR__GISCUS_CATEGORY'
-  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
-  mapping = 'pathname'
-  theme = 'light'
-  lang = 'zh-CN'
-```
-
-Available options to front matter:
-
-```toml
-comments = false                            # disable comments for a specific page
-math = true                                 # enable KaTeX math typesetting for a specific page
-```
-
-## Install
-
-### As git submodule
-
-Inside the folder of your Hugo project, run:
-
-```bash
-git submodule add https://github.com/nanxiaobei/hugo-paper themes/paper
-```
-
-Open `config.toml`(or `hugo.toml`), change `theme` to `"paper"`:
-
-```toml
-theme = "paper"
-```
-
-For more information, please read the [official guide](https://gohugo.io/getting-started/quick-start/#configure-the-site) of Hugo.
-
-### As hugo module
-
-Add paper theme ad dependency of your site:
-
-```bash
-hugo mod init github.com/<your_user>/<your_project>
-```
-
-Open `config.toml`(or `hugo.toml`), remove the `theme` line (if present), add `module` section to the bottom of the file:
-
-```toml
-[module]
-  [[module.imports]]
-    path = "github.com/nanxiaobei/hugo-paper"
-```
-
-For more information, please read the [official guide](https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme) of Hugo.
-
-## License
-
-[MIT License](https://github.com/nanxiaobei/hugo-paper/blob/main/LICENSE) (c) [nanxiaobei](https://lee.so/)
