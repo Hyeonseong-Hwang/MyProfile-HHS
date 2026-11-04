@@ -50,6 +50,12 @@ hugo server --config hugo.toml,pages.json --disableFastRender
 
 --config hugo.toml,pages.json: 사이트 설정(hugo.toml)과 배포용 설정(pages.json)을 함께 읽습니다.
 --disableFastRender: 파일 이름 변경·삭제 후에도 화면이 정확히 다시 만들어지게 합니다.
+4. 배포와 같은 방식으로 빌드만 해 보기
+bash
+cd site
+hugo --config hugo.toml,pages.json --destination /tmp/site-check --cleanDestinationDir
+
+결과물은 저장소 밖(/tmp/site-check)에 만들어지므로 Git 기록에 영향을 주지 않습니다.
 
 ## 출처와 이용 조건
 자료	출처	이용 조건	사용 위치
