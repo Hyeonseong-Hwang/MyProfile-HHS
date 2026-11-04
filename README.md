@@ -57,6 +57,36 @@ hugo --config hugo.toml,pages.json --destination /tmp/site-check --cleanDestinat
 
 결과물은 저장소 밖(/tmp/site-check)에 만들어지므로 Git 기록에 영향을 주지 않습니다.
 
+## 내용 수정 위치
+바꾸고 싶은 것	수정할 파일
+사이트 제목, 이름, 홈 소개 문구, 메뉴, GitHub·인스타그램 링크, 언어	site/hugo.toml
+소개 페이지 (경력·학력)	site/content/about.md
+연락처와 지도	site/content/contact.md
+글 내용	site/content/post/*.md
+이미지	site/static/images/ (글에서는 ../../images/파일이름으로 사용)
+메뉴 드롭다운 모양과 동작	site/layouts/partials/header.html
+홈 글 목록 카드 효과, 홈 소개 문구 링크 표시	site/layouts/_default/list.html
+
+맨 위의 exampleSite/ 폴더와 site/themes/template/(테마 원본)은 수정하지 않습니다. 테마 화면을 바꿀 때는 site/layouts/에 같은 경로로 파일을 복사해 덮어씁니다.
+
+## 수정 후 배포 확인 방법
+수정한 파일만 골라서 커밋하고 main에 push합니다.
+bash
+   git add site/content/about.md
+   git commit -m "소개 페이지 경력 내용 수정"
+   git push origin main
+GitHub 저장소의 Actions 탭에서 방금 커밋의 실행을 엽니다.
+build와 deploy가 모두 초록 체크인지 확인합니다. 빨간 X면 실패한 단계를 열어 오류 내용을 확인합니다.
+브라우저 시크릿 창에서 공개 사이트를 열어 변경 내용이 반영됐는지 확인합니다.
+
+## 저장소에서 제외하는 파일
+
+.gitignore로 아래 파일은 Git에 올리지 않습니다.
+
+/site/public/, /public/: Hugo 빌드 결과물 (배포 때 Actions가 새로 만듦)
+.DS_Store: macOS 시스템 파일
+**/resources/_gen/, **/.hugo_build.lock, **/node_modules/: 빌드 도구의 임시 파일
+
 ## 출처와 이용 조건
 자료	출처	이용 조건	사용 위치
 hugo-paper 테마	https://github.com/nanxiaobei/hugo-paper (nanxiaobei)	MIT License, 원본 LICENSE 파일 유지	사이트 전체 디자인 (site/themes/template/)
