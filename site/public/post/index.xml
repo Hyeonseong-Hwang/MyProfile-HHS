@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on 나 소개하기</title>
+		<title>활동 on 나 소개하기</title>
 		<link>http://localhost:1313/MyProfile-HHS/post/</link>
-		<description>Recent content in Posts on 나 소개하기</description>
+		<description>Recent content in 활동 on 나 소개하기</description>
 		<generator>Hugo</generator>
 		<language>ko-KR</language>
 		
