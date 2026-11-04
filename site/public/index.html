@@ -228,7 +228,7 @@
   </div><div>
     <div class="mt-3 mb-1 text-2xl font-medium text-black dark:text-white">황현성</div>
     <div class="break-words">안녕하세요. <a href="https://csai.jbnu.ac.kr/csai/index.do" target="_blank" rel="noopener">전북대학교 컴퓨터인공지능학부</a>에 재학 중인 황현성입니다.<br>AI를 활용한 의료 기술과, 그 정보를 쉽게 전달하는 홈페이지 개발에 관심이 있습니다. 다양한 전공 수업을 들으며 관심 분야에 대한 이해를 넓히고 실력을 키우는 것이 목표입니다.</div>
-  </div></div><section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0"><h2 class="my-0!">관심 분야 1</h2>
+  </div></div><section class="post-card relative my-10 first-of-type:mt-0 last-of-type:mb-0"><h2 class="my-0!">관심 분야 1</h2>
   <time class="text-xs antialiased opacity-60"
     >2026. 11. 2.</time
   >
@@ -237,7 +237,7 @@
   >
 </section>
 
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0"><h2 class="my-0!">관심 분야 2</h2>
+<section class="post-card relative my-10 first-of-type:mt-0 last-of-type:mb-0"><h2 class="my-0!">관심 분야 2</h2>
   <time class="text-xs antialiased opacity-60"
     >2026. 11. 2.</time
   >
@@ -246,14 +246,35 @@
   >
 </section>
 
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0"><h2 class="my-0!">총정리</h2>
+<section class="post-card relative my-10 first-of-type:mt-0 last-of-type:mb-0"><h2 class="my-0!">총정리</h2>
   <time class="text-xs antialiased opacity-60"
     >2026. 11. 2.</time
   >
   <a class="absolute inset-0 text-[0px]" href="http://localhost:1313/MyProfile-HHS/post/summary/"
     >총정리</a
   >
-</section></main><footer
+</section><style>
+  .post-card {
+    padding: 1rem 1.25rem;
+    border-radius: 0.75rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .post-card:hover,
+  .post-card:focus-within {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  }
+  .dark .post-card:hover,
+  .dark .post-card:focus-within {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .post-card { transition: none; }
+    .post-card:hover,
+    .post-card:focus-within { transform: none; }
+  }
+</style>
+</main><footer
   class="mx-auto flex h-[4.5rem] max-w-(--w) items-center px-8 text-xs tracking-wider uppercase opacity-60"
 >
   <div class="mr-auto">© 2026, 황현성</div>
