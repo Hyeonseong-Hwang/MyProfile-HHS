@@ -29,3 +29,24 @@ Hugo와 hugo-paper 테마로 만든 개인 소개 사이트입니다. 관심 분
 | Python | 3.12 | 배포 워크플로의 빌드 보조 스크립트 실행 (GitHub Actions에서 자동 설치) |
 | 수업 제공 스크립트 | `prepare_github_pages.py` 3.1 | 저장소 연결, `site/` 구성, 워크플로 생성 |
 
+로컬에서 실행하기
+1. Hugo 설치 (macOS)
+bash
+brew install hugo
+hugo version
+
+Windows는 winget install Hugo.Hugo.Extended로 설치할 수 있습니다.
+
+2. 저장소 받기
+bash
+git clone https://github.com/Hyeonseong-Hwang/MyProfile-HHS.git
+cd MyProfile-HHS
+3. 미리보기 서버 실행
+bash
+cd site
+hugo server --config hugo.toml,pages.json --disableFastRender
+
+브라우저에서 http://localhost:1313/MyProfile-HHS/를 엽니다. 파일을 저장하면 화면이 자동으로 새로고침됩니다. 서버는 Ctrl + C로 끕니다.
+
+--config hugo.toml,pages.json: 사이트 설정(hugo.toml)과 배포용 설정(pages.json)을 함께 읽습니다.
+--disableFastRender: 파일 이름 변경·삭제 후에도 화면이 정확히 다시 만들어지게 합니다.
