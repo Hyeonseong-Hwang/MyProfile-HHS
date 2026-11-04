@@ -29,7 +29,7 @@ Hugo와 hugo-paper 테마로 만든 개인 소개 사이트입니다. 관심 분
 | Python | 3.12 | 배포 워크플로의 빌드 보조 스크립트 실행 (GitHub Actions에서 자동 설치) |
 | 수업 제공 스크립트 | `prepare_github_pages.py` 3.1 | 저장소 연결, `site/` 구성, 워크플로 생성 |
 
-로컬에서 실행하기
+## 로컬에서 실행하기
 1. Hugo 설치 (macOS)
 bash
 brew install hugo
@@ -51,7 +51,7 @@ hugo server --config hugo.toml,pages.json --disableFastRender
 --config hugo.toml,pages.json: 사이트 설정(hugo.toml)과 배포용 설정(pages.json)을 함께 읽습니다.
 --disableFastRender: 파일 이름 변경·삭제 후에도 화면이 정확히 다시 만들어지게 합니다.
 
-출처와 이용 조건
+## 출처와 이용 조건
 자료	출처	이용 조건	사용 위치
 hugo-paper 테마	https://github.com/nanxiaobei/hugo-paper (nanxiaobei)	MIT License, 원본 LICENSE 파일 유지	사이트 전체 디자인 (site/themes/template/)
 Hugo	https://gohugo.io	Apache License 2.0	사이트 생성
