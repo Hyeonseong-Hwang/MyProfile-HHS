@@ -50,3 +50,20 @@ hugo server --config hugo.toml,pages.json --disableFastRender
 
 --config hugo.toml,pages.json: 사이트 설정(hugo.toml)과 배포용 설정(pages.json)을 함께 읽습니다.
 --disableFastRender: 파일 이름 변경·삭제 후에도 화면이 정확히 다시 만들어지게 합니다.
+
+출처와 이용 조건
+자료	출처	이용 조건	사용 위치
+hugo-paper 테마	https://github.com/nanxiaobei/hugo-paper (nanxiaobei)	MIT License, 원본 LICENSE 파일 유지	사이트 전체 디자인 (site/themes/template/)
+Hugo	https://gohugo.io	Apache License 2.0	사이트 생성
+지도	https://www.openstreetmap.org	© OpenStreetMap contributors, ODbL	연락 페이지 지도 (지도 안 출처 표시 유지)
+배포 스크립트와 워크플로	수업 제공 (prepare_github_pages.py)	수업 자료	.github/, .github-pages.json, site/pages.json
+
+사이트 맨 아래의 "powered by hugo", "hugo-paper" 링크는 테마 출처 고지이므로 유지합니다.
+
+직접 제작 · 외부 자료 · AI 활용 구분
+구분	내용
+직접 제작	소개·관심 분야·활동 글의 내용, 프로필 및 활동 사진(직접 촬영·화면 캡처), 사이트 설정과 콘텐츠 구성, 화면·기능 점검
+외부 자료	hugo-paper 테마, Hugo, OpenStreetMap 지도, 수업 제공 배포 스크립트,
+AI 활용 (Claude)	Hugo 설정 방법과 배포 오류 원인 분석, 메뉴 드롭다운·글 카드 효과·소개 타임라인·연락 페이지의 HTML·CSS 코드 초안, 글 문장 다듬기
+
+AI가 제안한 코드와 문장은 직접 적용해 본 뒤 로컬과 공개 사이트에서 동작을 확인하고, 맞지 않는 부분은 수정하거나 사용하지 않았습니다. 자세한 사례는 과제 보고서의 AI 활용 기록에 정리했습니다.
