@@ -39,7 +39,7 @@ $paginator.Pages -}}<!---->
     </div>
     <div class="break-words">
       {{- site.Params.bio | default (print `A personal blog by `
-      site.Params.name) -}}
+      site.Params.name) | safeHTML -}}
     </div>
   </div>
   {{- end -}}
