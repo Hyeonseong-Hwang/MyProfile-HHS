@@ -22,7 +22,7 @@ ignoreErrors = ["error-remote-getjson"]
 
   avatar = 'https://hyeonseong-hwang.github.io/MyProfile-HHS/images/avatar.jpg'
   name = '황현성'
-  bio = '안녕하세요, 전북대학교 컴퓨터인공지능학부에 재학중인 황현성입니다. AI를 활용한 의료 기술 개발 및 정보 제공 홈페이지에 관심이 있습니다.다양한 전공 수업을 수강하여 제 관심 분야에 대한 이해력 증가와 실력 향상을 하는 게 목표입니다.'
+    bio = '''안녕하세요. <a href="https://csai.jbnu.ac.kr/csai/index.do" target="_blank" rel="noopener">전북대학교 컴퓨터인공지능학부</a>에 재학 중인 황현성입니다.<br>AI를 활용한 의료 기술과, 그 정보를 쉽게 전달하는 홈페이지 개발에 관심이 있습니다. 다양한 전공 수업을 들으며 관심 분야에 대한 이해를 넓히고 실력을 키우는 것이 목표입니다.'''
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
